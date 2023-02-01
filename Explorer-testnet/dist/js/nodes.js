@@ -1,11 +1,15 @@
 nodes = [{
-  "name": "Mainnet",
+  "name": "Self-hosted node (RedEye)",
+  "protocol": "https",
+  "URL": "78.58.45.205:5000",
+},{
+  "name": "Portmap-Node (MADZ Hacker)",
   "protocol": "http",
   "URL": "madzcoin-58263.portmap.io:58263",
 },{
-  "name":"node2",
+  "name":"REPL-Node (MADZ Hacker)",
   "protocol": "https",
-  "URL": "madzcoin-node.superpythonguy.repl.co"
+  "URL": "madzcoin-node.superpythonguy.repl.co:443"
 }
 ]
 
