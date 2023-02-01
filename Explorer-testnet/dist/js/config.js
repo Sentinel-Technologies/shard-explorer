@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  nodeURL: 'http://madzcoin-58263.portmap.io:58263/',
+  nodeURL: 'https:/78.58.45.205:5000/',
   ticker: 'MADZ',
   blockReward: 10.5,
   blockTime: 300,
