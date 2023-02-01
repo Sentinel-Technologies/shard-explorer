@@ -1,4 +1,4 @@
-# Sirious Blockchain Explorer
+# Madzcoin Blockchain Explorer
 
 This Blockchain Explorer is entirely self contained.
 
