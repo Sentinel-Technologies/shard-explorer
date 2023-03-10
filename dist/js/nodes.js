@@ -1,15 +1,19 @@
 nodes = [{
-  "name": "Self-hosted node (RedEye)",
+  "name": "Self-hosted node (East EU, RedEye)",
   "protocol": "https",
   "URL": "78.58.45.205:5000",
-},{
-  "name": "Portmap-Node (MADZ Hacker)",
+}, {
+  "name": "Self-hosted node (UK, MADZ Hacker)",
   "protocol": "http",
-  "URL": "madzcoin-58263.portmap.io:58263",
-},{
-  "name":"REPL-Node (MADZ Hacker)",
-  "protocol": "https",
-  "URL": "madzcoin-node.superpythonguy.repl.co:443"
+  "URL": "2.99.23.203:6969"
+}, {
+  "name": "Self-hosted node (US, Luke)",
+  "protocol": "http",
+  "URL": "madz.shming.us:6969"
+}, {
+  "name": "Self-hosted node (EU, Luke)",
+  "protocol": "http",
+  "URL": "madz-eu.shming.us:6969"
 }
 ]
 
