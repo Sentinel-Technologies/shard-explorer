@@ -1,7 +1,7 @@
 nodes = [{
   "name": "Self-hosted node (East EU, RedEye)",
   "protocol": "https",
-  "URL": "78.58.45.205:5000",
+  "URL": "78.58.45.205:6969",
 }, {
   "name": "Self-hosted node (UK, MADZ Hacker)",
   "protocol": "http",
