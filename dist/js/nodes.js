@@ -1,19 +1,7 @@
 nodes = [{
-  "name": "Self-hosted node (East EU, RedEye)",
-  "protocol": "https",
-  "URL": "78.58.45.205:6969",
-}, {
-  "name": "Self-hosted node (UK, MADZ Hacker)",
+  "name": "Self-hosted node (UK, Babymusk)",
   "protocol": "http",
-  "URL": "2.99.23.203:6969"
-}, {
-  "name": "Self-hosted node (US, Luke)",
-  "protocol": "http",
-  "URL": "madz.shming.us:6969"
-}, {
-  "name": "Self-hosted node (EU, Luke)",
-  "protocol": "http",
-  "URL": "madz-eu.shming.us:6969"
+  "URL": "shard-node.duckdns.ord:6969",
 }
 ]
 
