@@ -1,7 +1,7 @@
 nodes = [{
   "name": "Self-hosted node (UK, Babymusk)",
   "protocol": "http",
-  "URL": "shard-node.duckdns.ord:6969",
+  "URL": "shard-node.duckdns.org:6969",
 }
 ]
 
