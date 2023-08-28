@@ -1,7 +1,6 @@
 const ExplorerConfig = {
   nodeURL: 'http://shard-node.duckdns.org:6969/',
   ticker: 'SHRD',
-  blockReward: 2048,
   blockTime: 300,
   maxSupply: 21000000000,
   decimalPoints: 18
